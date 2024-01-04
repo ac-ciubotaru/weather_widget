@@ -1,0 +1,2 @@
+- first try of creating a desktop application in python;
+- I made a time widget
